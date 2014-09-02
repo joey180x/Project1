@@ -1,3 +1,14 @@
-body{
-	background-color: blue;
+body {
+	background-image: url("http://www.peteradamsphoto.com/wp-content/uploads/2011/01/Yosemite.L_002648.web_.jpg");
+}
+.my-projects {
+	text-align: left;
+	border: 1px solid black;
+}
+a {
+    color: red;
+}
+
+a:hover {
+    color: yellow;
 }

@@ -1,6 +1,16 @@
 body {
-	background-color: blue;
+
+	background-image: url("http://www.neyralaw.com/wp-content/uploads/2012/07/tokyo-blue-background-4547.jpg");
 }
 .about-me {
-	text-align: center;
+	text-align: left;
+	
+	border: 1px solid black;
+}
+a {
+    color: blue;
+}
+
+a:hover {
+    color: red;
 }
